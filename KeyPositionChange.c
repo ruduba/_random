@@ -1,4 +1,6 @@
- #include<stdio.h>
+//for an unsorted 1d array input by the user, sort it using bubble sort, then search for a key element and determine the starting position before the sort and the final position after the sort and print the statement 
+
+#include<stdio.h>
 
  int a[100], b[100], i, j, n, temp, sortedArray, key, low, high, mid, fin, start;
 
@@ -68,4 +70,4 @@
     printf("the key has moved from position %d to position %d after bubble sort ", start+1, mid+1);
 }
 
-//for an unsorted 1d array input by the user, sort it using bubble sort, then search for a key element and determine the starting position before the sort and the final position after the sort and print the statement
+
