@@ -1,2 +1,2 @@
 # _random
-problems i created for myself
+problems i created for myself + stuff i solve online
